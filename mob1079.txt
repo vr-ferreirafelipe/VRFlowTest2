@@ -1,1 +1,3 @@
 Arquivo que adiciona nova feature.
+
+Adiciona nova feature.
